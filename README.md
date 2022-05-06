@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to watch movies
 
 Connect with me:
-vinodpasalkar | vinodpasalkar | Gmail
+https://www.linkedin.com/in/vinodpasalkar/ | vinodpasalkar@gmail.com
 
 
 Languages and Tools:
