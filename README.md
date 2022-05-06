@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vinod Pasalkar
 
-## I'm a Developer in Test, and Influencer!
+## I'm a Software Developer in Test!
 
 - 🔭 I’m currently working on software( web and mobile apps - android/iOS ) test automation
 - 🌱 I’m currently learning few more tools in the software test automation
